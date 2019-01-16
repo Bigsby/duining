@@ -1,4 +1,5 @@
 # Links
+- [Beginner Electronics](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 - [How to Use a Breadboard](https://www.youtube.com/watch?v=6WReFkfrUIk)
 - [Using an EEPROM to replace combinational logic](https://www.youtube.com/watch?v=BA12Z7gQ4P0)
 - [Build an Arduino EEPROM programmer](https://www.youtube.com/watch?v=K88pgWhEb1M)
