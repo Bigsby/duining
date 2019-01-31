@@ -16,3 +16,9 @@
     - zero
 
 
+# x86_64
+- registers
+  - general-purpose
+  - segment
+  - flg
+  - instruction pointer
